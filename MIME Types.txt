@@ -1,0 +1,7 @@
+EXEMPLOS DE MIME TYPES - (INTERNET MEDIA TYPE)
+
+image/jpeg,
+image/gif,
+image/png,
+application/pdf,
+image/x-eps
